@@ -4,6 +4,7 @@ services:
     mysql:
       image: mysql:latest
       container_name: dev_mysql
+      command: mysqld --default-authentication-plugin=mysql_native_password
       environment:
         MYSQL_USER: book_user
         MYSQL_PASSWORD: book_password
