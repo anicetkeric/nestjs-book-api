@@ -10,6 +10,7 @@ services:
         MYSQL_PASSWORD: book_password
         MYSQL_ROOT_PASSWORD: root
         MYSQL_DATABASE: book_db
+      restart: always
       ports:
         - 3306:3306    
   
