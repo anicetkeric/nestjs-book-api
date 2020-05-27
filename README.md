@@ -24,6 +24,13 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+# Prerequisites
+- Install [NodeJs](https://nodejs.org/en/download/) (for Mac OSX / Windows / Linux)  
+- Install [Docker](https://docs.docker.com/install/) (for Mac OSX / Windows / Docker)
+- Install [Docker Compose](https://docs.docker.com/compose/install/)
+- Clone this repository
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
