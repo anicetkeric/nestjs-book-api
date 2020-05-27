@@ -31,10 +31,6 @@
 - Install [Docker Compose](https://docs.docker.com/compose/install/)
 - Clone this repository
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Installation
 
 ```bash
